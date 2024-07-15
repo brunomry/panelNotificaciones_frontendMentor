@@ -1,12 +1,11 @@
 import './App.css'
+import Notificaciones from './components/Notificaciones'
 
 function App() {
 
   return (
     <>
-       <h1 className="text-3xl font-bold underline">
-      Hello world!
-      </h1>
+       <Notificaciones></Notificaciones>
     </>
   )
 }
