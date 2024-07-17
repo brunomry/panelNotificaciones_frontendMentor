@@ -3,7 +3,7 @@ import CardNotificacion from './CardNotificacion';
 
 const ListaNotificaciones = () => {
     return (
-        <div className='bg-color-red'>
+        <div className=''>
             <CardNotificacion></CardNotificacion>
         </div>
     );
