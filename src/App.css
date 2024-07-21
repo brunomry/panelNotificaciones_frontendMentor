@@ -9,4 +9,6 @@
 
 body{
     font-family: "Plus Jakarta Sans";
+    min-height: 100vh;
+    background: #F9FAFE;
 }

@@ -1,13 +1,12 @@
-import './App.css'
-import Notificaciones from './components/Notificaciones'
+import "./App.css";
+import Notificaciones from "./components/Notificaciones";
 
 function App() {
-
   return (
-    <>
-       <Notificaciones></Notificaciones>
-    </>
-  )
+    <div className="flex items-center h-screen">
+      <Notificaciones></Notificaciones>
+    </div>
+  );
 }
 
-export default App
+export default App;
