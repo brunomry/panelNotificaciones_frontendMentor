@@ -3,7 +3,7 @@ import Notificaciones from "./components/Notificaciones";
 
 function App() {
   return (
-    <div className="flex items-center h-screen">
+    <div className="flex items-center ">
       <Notificaciones></Notificaciones>
     </div>
   );

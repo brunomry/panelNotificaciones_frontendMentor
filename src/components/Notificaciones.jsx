@@ -6,7 +6,7 @@ const Notificaciones = () => {
   const [cantNotification, setCantNotification] = useState(3);
 
   return (
-    <section className="container md:w-[730px] bg-color-white rounded-lg px-4 pt-[4px] pb-[8px] mx-auto">
+    <section className="container md:w-[730px] bg-color-white rounded-lg px-4 mt-[14px] pb-[8px] mx-auto">
       <div className="flex justify-between my-8 notifications">
         <h3 className="text-xl font-extrabold text-very-dark-blue">
           Notifications
